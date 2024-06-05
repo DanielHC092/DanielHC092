@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Daniel Hansel Christiawan 
 Back-end and Data Scientist enthusiast
-- 🌱 I’m currently learning **Javascript and Dart Flutter**
+-  I’m currently learning **Javascript and Dart Flutter**
 
 - 📫 How to reach me **danielhc092@gmail.com**
 
